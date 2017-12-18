@@ -1,1 +1,1 @@
-New conflict file from branch
+first conflict from branch
